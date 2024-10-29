@@ -5,6 +5,7 @@
 filter, map, and reduce
 
 📚 Overview
+
 Welcome to the exploration of three essential JavaScript array methods: filter, map, and reduce. This project not only explains these methods but also provides practical examples using an array of objects, showcasing the power and flexibility of JavaScript.
 
 📖 Table of Contents
